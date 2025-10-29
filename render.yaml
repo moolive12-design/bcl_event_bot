@@ -1,0 +1,8 @@
+# optional render service manifest example
+services:
+  - type: web
+    name: bcl-event-bot
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py

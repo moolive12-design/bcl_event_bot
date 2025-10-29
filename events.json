@@ -1,0 +1,44 @@
+[
+  {
+    "name_en": "AGB",
+    "name_kr": "AGB",
+    "time": "12:00",
+    "days": ["Mon", "Fri"],
+    "thread_id": 10
+  },
+  {
+    "name_en": "ESI",
+    "name_kr": "ESI",
+    "time": "13:00",
+    "days": ["Mon", "Thu"],
+    "thread_id": 10
+  },
+  {
+    "name_en": "AGB",
+    "name_kr": "AGB",
+    "time": "12:30",
+    "days": ["Wed"],
+    "thread_id": 10
+  },
+  {
+    "name_en": "ESB",
+    "name_kr": "ESB",
+    "time": "13:30",
+    "days": ["Wed"],
+    "thread_id": 10
+  },
+  {
+    "name_en": "Score HAKA",
+    "name_kr": "Score HAKA",
+    "time": "12:20",
+    "days": ["Fri"],
+    "thread_id": 10
+  },
+  {
+    "name_en": "Dragon Valley",
+    "name_kr": "Dragon Valley",
+    "time": "13:00",
+    "days": ["Fri"],
+    "thread_id": 10
+  }
+]
